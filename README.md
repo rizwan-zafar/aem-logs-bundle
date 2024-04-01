@@ -40,4 +40,4 @@ In this view:
 - Yellow lines highlight warnings.
 
 To retrieve a specific number of lines, you can include a query parameter in the URL. Additionally, you can specify the name of the particular file you wish to access using another query parameter.
-https://devauthor01.stc.com.sa:8443/bin/aem-slinglogs?lines=40&file=access.log
+https://localhost:4502/bin/aem-slinglogs?lines=40&file=access.log
